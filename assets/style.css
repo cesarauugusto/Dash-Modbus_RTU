@@ -1,0 +1,36 @@
+
+#div_titulo {
+    display:flex;
+    flex-direction:row;
+    background-color:rgb(210, 25, 25);
+    color:azure;
+    align-items: center;
+    width:100%;
+    justify-content: center;
+    gap: 2%;
+}
+
+#logoif {
+    margin:1% 0% 1% 0%;
+
+}
+#div_ledgau {
+    display: flex;
+    justify-content: center;
+    height:10%;
+    gap : 10%;
+}
+#div_tank{
+    display: flex;
+    justify-content: center;
+    height:10%;
+    gap:10%;
+    margin:0% 0% 0% 0%;    
+} 
+#div_layout {
+    display: flex;
+    justify-content: center;
+    height:10%;
+    gap : 10%;
+    margin:1% 0% 0% 0%;   
+} 
